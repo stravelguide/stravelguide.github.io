@@ -1,0 +1,26 @@
+p { font-size: 20 }
+.Couriernew{font-family:"Courier New";}
+.greycolor{color:grey;}
+.textcenter{text-align:center;}
+.greybackgroundcolor{background-color:grey}
+.blackcolor{color:black;}
+.image60{image-rendering: 60%}
+.profilepic{width:40%}
+body{
+	background-image: url("../img/Viewing.jpg");
+	background-size: cover;
+}
+
+.transparentbackgrond{
+	background-color:rgba(255,255,255,0.4);
+}
+.smallfont{font-size:12;}
+.mediumfont{font-size:15;}
+.backgroundgrey{background-color: grey;}
+.margin{margin-bottom: 20px;}
+.bigfont{font-size: 18;}
+.whitesmokebackground{background-color: #C0C0C0;}
+.lightgreybackground{background-color:rgba(255,255,255,0.4);}
+.transparent{background-color: transparent; border:none;}
+.Silom{font-family: "Silom";}
+.whitefont{color:white;}
